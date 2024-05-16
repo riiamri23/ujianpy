@@ -16,4 +16,4 @@ print(df)
 
 # Menyimpan DataFrame ke file CSV (opsional)
 df.to_csv('data_untuk_soal4.csv', index=False)
-print("\nDataFrame telah disimpan ke 'data.csv'")
+print("\nDataFrame telah disimpan ke 'data_untuk_soal4.csv'")
